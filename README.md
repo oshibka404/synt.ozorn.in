@@ -1,5 +1,4 @@
-# Synt
-An instrument you can play even if you think you can't.
+Available on App Store
 
 ## Contact:
 **Andrey Ozornin**
