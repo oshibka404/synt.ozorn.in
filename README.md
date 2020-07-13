@@ -1,5 +1,7 @@
 Available on App Store
 
+
+
 ## Contact:
 **Andrey Ozornin**
 
@@ -10,3 +12,5 @@ VK: @oshibka404
 Facebook: @oshibka404
 
 e-mail: andrey@ozorn.in
+
+[Privacy policy](/privacy_policy)
