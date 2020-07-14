@@ -1,4 +1,4 @@
-Available on App Store
+Available on [App Store](https://apps.apple.com/app/synt/id1523178795)
 
 
 
