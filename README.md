@@ -1,5 +1,7 @@
 [![Synt in App Store](/images/app_store.svg "Synt in App Store")][app_store_link]
 
+[What's new](/news)
+
 ## Contact:
 **Andrey Ozornin**
 
