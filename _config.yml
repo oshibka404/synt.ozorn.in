@@ -1,3 +1,5 @@
 theme: jekyll-theme-cayman
 title: Synt
 description: An instrument you can play even if you think you can't
+github:
+  is_project_page: false
