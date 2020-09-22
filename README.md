@@ -1,4 +1,4 @@
-![Screenshot](/images/IMG_9341.PNG "Synt app screenshot")
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2OEVUrwX-zM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 [![Synt in App Store](/images/app_store.svg "Synt in App Store")][app_store_link]
 
